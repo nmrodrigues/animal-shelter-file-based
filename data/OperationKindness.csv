@@ -1,0 +1,13 @@
+AnimalType,Name,Age,Weight,Breed,Color,Health
+cat,Morris,9,3,mixed,yellow,good
+cat,Mittens,1,1,Calico,brown and white,good
+cat,Junior,1,2,Tabby,black,good
+cat,Priss,2,3,Heinz,white,good
+cat,Charcoal,1,2,Siamese,white and yellow,good
+dog,Bitsy,4,6,Minx,grey,good
+cat,Charmin,2,3,,white,good
+dog,Fido,5,7,,spotted,good
+cat,Red,2,2,,black,parvo
+cat,Cute Stuff,1,2,,yellow,good
+dog,Rex,3,5,,brown and white,good
+hamster,Chippy,1,1,,yellow and white,good
